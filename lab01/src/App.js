@@ -1,6 +1,7 @@
+import TodoList from "./components/TodoList";
 
 function App() {
-  return <p>Day la to do App</p>;
+  return <TodoList />;
 }
 
 export default App;
