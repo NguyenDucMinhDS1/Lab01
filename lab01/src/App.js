@@ -2,9 +2,10 @@ import TodoList from "./components/TodoList";
 
 function App() {
   return (
+    
     <div class="banner">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuyCdm7UuUtX6DLlAC12MWvMin7QOGeHakaiF6kPciEFe_EF0ydqn0xvZcJZJFNoWZ2S4&usqp=CAU" height = {100} width = {100}/>
       <div class="navbar">
-        <img src="{require('/images/logo.jpg')}" class="logo"/>
         <h3>Betting88</h3>
         <ul>
           <li><a href="#">Home</a></li>
